@@ -21,8 +21,9 @@ Os usuários podem adicionar nomes a uma lista e realizar o sorteio aleatório p
 
 ## 📂 Estrutura do projeto
 
-📦 challenge-amigo-secreto_pt
+📦 challenge-amigo-secreto-  
 ├── index.html # Página principal  
 ├── style.css # Estilos da aplicação  
 ├── app.js # Lógica do sorteio e manipulação da lista  
+
 └── assets/ # Imagens e ícones usados na interface  
